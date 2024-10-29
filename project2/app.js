@@ -1,22 +1,22 @@
 let data = [
   {
-    name: 'Mateo',
+    name: 'Bob',
     age: '30'
   },
   {
-    name: 'Sarah',
+    name: 'Joe',
     age: '32'
   },
   {
-    name: 'John',
+    name: 'Jake',
     age: '20'
   },
   {
-    name: 'Tim',
+    name: 'Timothy',
     age: '27'
   },
   {
-    name: 'Sam',
+    name: 'greg',
     age: '22'
   },
   {
